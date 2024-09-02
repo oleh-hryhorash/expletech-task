@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "title": "Women White T-Shirt",
+    "desc": "We not only help you design exceptional products, but also make it easy for you to share your designs with more like-minded people.",
+    "price": 550,
+    "colors": ["white"],
+    "sizes": ["xl"],
+    "categories": ["women cloth"],
+    "image": "/products/1.webp",
+    "createdAt": "10/12/2023"
+  },
+  {
+    "id": 2,
+    "title": "Men Typography Round Neck Cotton Blend Black T-Shirt",
+    "desc": "We not only help you design exceptional products, but also make it easy for you to share your designs with more like-minded people.",
+    "price": 180,
+    "colors": ["blue"],
+    "sizes": ["m"],
+    "categories": ["men cloth"],
+    "image": "/products/2.webp",
+    "createdAt": "15/08/2022"
+  },
+  {
+    "id": 3,
+    "title": "Men Typography Round Neck Cotton Blend Black T-Shirt",
+    "desc": "We not only help you design exceptional products, but also make it easy for you to share your designs with more like-minded people.",
+    "price": 300,
+    "colors": ["black"],
+    "sizes": ["xl", "l"],
+    "categories": ["men cloth"],
+    "image": "/products/3.webp",
+    "createdAt": "20/05/2021"
+  },
+  {
+    "id": 4,
+    "title": "Men Typography Round Neck Cotton Blend Black T-Shirt",
+    "desc": "We not only help you design exceptional products, but also make it easy for you to share your designs with more like-minded people.",
+    "price": 150,
+    "colors": ["brown"],
+    "sizes": ["xl", "l"],
+    "categories": ["men cloth"],
+    "image": "/products/4.webp",
+    "createdAt": "25/02/2020"
+  },
+  {
+    "id": 5,
+    "title": "Women Printed Round Neck Cotton Blend Red T-Shirt",
+    "desc": "We not only help you design exceptional products, but also make it easy for you to share your designs with more like-minded people.",
+    "price": 210,
+    "colors": ["red"],
+    "sizes": ["l"],
+    "categories": ["women cloth"],
+    "image": "/products/5.webp",
+    "createdAt": "30/11/2019"
+  },
+  {
+    "id": 6,
+    "title": "Women Printed Round Neck Pure Cotton Green, Grey T-Shirt",
+    "desc": "We not only help you design exceptional products, but also make it easy for you to share your designs with more like-minded people.",
+    "price": 210,
+    "colors": ["green"],
+    "sizes": ["xl"],
+    "categories": ["women cloth"],
+    "image": "/products/6.webp",
+    "createdAt": "30/11/2019"
+  },
+  {
+    "id": 7,
+    "title": "Women Printed Round Neck Elastane Pink T-Shirt",
+    "desc": "We not only help you design exceptional products, but also make it easy for you to share your designs with more like-minded people.",
+    "price": 390,
+    "colors": ["pink"],
+    "sizes": ["m"],
+    "categories": ["women cloth"],
+    "image": "/products/7.webp",
+    "createdAt": "10/04/2017"
+  },
+  {
+    "id": 8,
+    "title": "Men Printed Round Neck Pure Cotton Red T-Shirt",
+    "desc": "We not only help you design exceptional products, but also make it easy for you to share your designs with more like-minded people.",
+    "price": 220,
+    "colors": ["red"],
+    "sizes": ["xl", "l", "s"],
+    "categories": ["men cloth"],
+    "image": "/products/8.webp",
+    "createdAt": "15/01/2016"
+  }
+]
